@@ -1,5 +1,5 @@
 # Node Express Webservices Client
-This node express project comsumes any soad wsdl enpoint
+This node express project comsumes any soap enpoint
  
 
 
